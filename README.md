@@ -109,9 +109,9 @@ The following results compare our 7 models across 4 selected datasets from the [
 
 ## Authors 
 
-- Axel Marchand (25262999)
-- Edward Mallia (25233259)
-- Aisling Wallace (25257061)
+- Axel Marchand
+- Edward Mallia
+- Aisling Wallace
 
 ## Reference
 
